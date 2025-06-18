@@ -1,0 +1,25 @@
+body{
+    background-color:lightskyblue;
+}
+h1{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+label{
+    color: black;
+}
+input{
+    background-color: silver;
+    color: black;
+}
+div{
+    background-color:plum;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 20px;
+}
